@@ -118,6 +118,14 @@ You can replace this model with a newer YOLO version (YOLOv5 / YOLOv8) for bette
 * Labels are displayed on detected objects
 * Frames are shown in real time
 
+## 📸 Sample Output
+
+Below is an example of weapon detection from a surveillance video.  
+The system successfully detects a weapon and highlights it using a bounding box.
+
+![Weapon Detection Output](samplr_output.png)
+
+
 ---
 
 ## 🔧 Customization
