@@ -123,7 +123,7 @@ You can replace this model with a newer YOLO version (YOLOv5 / YOLOv8) for bette
 Below is an example of weapon detection from a surveillance video.  
 The system successfully detects a weapon and highlights it using a bounding box.
 
-![Weapon Detection Output](samplr_output.png)
+![Weapon Detection Output](sample_output.png)
 
 
 ---
